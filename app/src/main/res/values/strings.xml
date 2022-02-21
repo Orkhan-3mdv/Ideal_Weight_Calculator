@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="head">Ideal Weight Calculator</string>
+    <string name="age">Age</string>
+    <string name="weightEdit">Enter Your Height</string>
+    <string name="editage">Enter Your Age</string>
+    <string name="ageInfo">ages 2-80 </string>
+    <string name="gender">Gender</string>
+    <string name="height">Height</string>
+    <string name="buttonName">Calculate</string>
+    <string name="maleButoon">Male</string>
+    <string name="femaleButton">Female</string>
+    <string name="sonucYas">Age :</string>
+    <string name="sonucCinsiyet">Gender :</string>
+    <string name="sonucUzunluk">Height :</string>
+    <string name="sonuc">Ideal Weight Is :</string>
+</resources>
